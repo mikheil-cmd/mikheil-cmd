@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mikheil-cmd
-- 👀 I’m interested in test automation, android development and full-stack.
-- 🌱 I’m currently learning about http parsing with python.
+- 👀 I’m learning in test automation engeering, android and full-stack development..
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: I want to learn javas basics and 4 main pricipes of OOP within 1 month, is it possible?
